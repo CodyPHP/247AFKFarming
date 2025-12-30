@@ -27,5 +27,5 @@ This repository contains an **HTML landing page** with a UI inspired by the styl
 
 🌐 **Demo & Referral**
 👉 **Live Page:** [Click here to visit the demo](https://yourdomain.github.io/yourrepo)  
-👉 **Join VSPhone:** [Join via my referral](https://www.vsphone.com/invite/vsagaucyrl)
+👉 **Join VSPhone:** [Join now](https://www.vsphone.com/invite/vsagaucyrl)
 

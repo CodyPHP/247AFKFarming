@@ -26,6 +26,6 @@ This repository contains an **HTML landing page** with a UI inspired by the styl
 ---
 
 🌐 **Demo & Referral**
-👉 **Live Page:** [Click here to visit the demo](https://yourdomain.github.io/yourrepo)  
+👉 **Live Page:** [Click here to visit the demo](https://codyphp.github.io/247AFKFarming)  
 👉 **Join VSPhone:** [Join now](https://www.vsphone.com/invite/vsagaucyrl)
 

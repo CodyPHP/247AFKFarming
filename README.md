@@ -1,4 +1,4 @@
-# 🌩️ VSPhone Cloud Android Landing Page
+# 🌩️ VSPhone Cloud Android
 A clean, promotional landing page for **VSPhone Cloud Android**, designed to showcase the features of cloud phones for gaming, AFK farming, and automation — with a referral link integration.
 
 ---

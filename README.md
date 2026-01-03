@@ -13,18 +13,6 @@ Perfect for:
 
 ---
 
-## ✨ About This Project
-This repository contains an **HTML landing page** with a UI inspired by the style of VSPhone's main website.
-
-### Features included:
-✔️ Responsive layout  
-✔️ VSPhone-like navigation & hero header  
-✔️ Marketing sections (benefits, features, call-to-action)  
-✔️ Referral button integration  
-✔️ Easy to host on GitHub Pages or any web host  
-
----
-
 🌐 **Demo & Referral**
 👉 **Live Page:** [Click here to visit the demo](https://codyphp.github.io/247AFKFarming)  
 👉 **Join VSPhone:** [Join now](https://www.vsphone.com/invite/vsagaucyrl)
